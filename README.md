@@ -6,10 +6,10 @@ In that sense, it is similar to Ethereum – although the world’s second-bigge
 
 Here are some of the projects built on Solana:
 
-    HDOKI, an entertainment ecosystem that offers crypto rewards
-    Star Atlas, a fully-fledged strategy game
-    ALF Protocol, a Solana-based lending dApp
-    Solanart, a zero-fee NFT marketplace
+HDOKI, an entertainment ecosystem that offers crypto rewards
+Star Atlas, a fully-fledged strategy game
+ALF Protocol, a Solana-based lending dApp
+Solanart, a zero-fee NFT marketplace
 
 
 How Does Solana Work?
@@ -18,9 +18,9 @@ Solana is an incredibly efficient blockchain: it has the capacity to handle thou
 
 The Solana protocol uses validator nodes to process transactions, ensuring the integrity and security of data. Validator nodes play a pivotal role in the proof-of-stake mechanism. They are network participants who run specialized software, helping secure the network by validating transactions.
 
-    Role in Consensus. Validators leverage the historical records from PoH to achieve consensus quickly. They are responsible for producing blocks and validating transactions.
-    Staking. To become a Solana validator, a node must stake a certain amount of SOL tokens that act as a security deposit. The more SOL tokens a validator stakes, the higher their chance of being chosen to validate a block of transactions.
-    Incentives. Validators earn rewards for validating and producing blocks. However, they can lose their staked SOL if they attempt to validate fraudulent transactions or act maliciously against the network.
+Role in Consensus. Validators leverage the historical records from PoH to achieve consensus quickly. They are responsible for producing blocks and validating transactions.
+Staking. To become a Solana validator, a node must stake a certain amount of SOL tokens that act as a security deposit. The more SOL tokens a validator stakes, the higher their chance of being chosen to validate a block of transactions.
+Incentives. Validators earn rewards for validating and producing blocks. However, they can lose their staked SOL if they attempt to validate fraudulent transactions or act maliciously against the network.
 
 
 
@@ -38,10 +38,10 @@ What Makes Solana Unique?
 
 Here are some of the features that make Solana stand out and have boosted its popularity as both a blockchain network and a cryptocurrency.
 
-    High Throughput. Solana can process thousands of transactions per second, addressing the challenges many blockchains face with scalability.
-    Reduced Transaction Costs. Leveraging its unique architecture, Solana offers significantly lower transaction fees compared to its competitors.
-    Decentralized Network. Solana’s robust network of validators ensures a secure, decentralized blockchain, keeping it resistant to central points of failure.
-    Adoption. Platforms like Solana Pay and the NFT trend have leveraged Solana’s infrastructure, further solidifying its position in the market
+High Throughput. Solana can process thousands of transactions per second, addressing the challenges many blockchains face with scalability.
+Reduced Transaction Costs. Leveraging its unique architecture, Solana offers significantly lower transaction fees compared to its competitors.
+Decentralized Network. Solana’s robust network of validators ensures a secure, decentralized blockchain, keeping it resistant to central points of failure.
+Adoption. Platforms like Solana Pay and the NFT trend have leveraged Solana’s infrastructure, further solidifying its position in the market
 
 
 
