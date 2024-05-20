@@ -1,3 +1,5 @@
+## WHAT IS SOLANA?
+
 Solana is a high-performance blockchain platform designed to support scalable decentralized applications (dApps) and cryptocurrencies.
 At the heart of its ecosystem is SOL, the project’s native cryptocurrency. Unlike many other blockchain networks that rely solely on the proof-of-work consensus mechanism, Solana employs a unique combination of the famous proof-of-stake and a more unique proof-of-history algorithm.
 
@@ -12,7 +14,7 @@ ALF Protocol, a Solana-based lending dApp
 Solanart, a zero-fee NFT marketplace
 
 
-How Does Solana Work?
+## How Does Solana Work?
 
 Solana is an incredibly efficient blockchain: it has the capacity to handle thousands of transactions in a fraction of a second, achieving unparalleled transaction throughput. This efficiency is achieved through using a combination of proof-of-history and proof-of-stake mechanisms.
 
@@ -45,12 +47,12 @@ Adoption. Platforms like Solana Pay and the NFT trend have leveraged Solana’s 
 
 
 
-Is Solana a Good Investment?
+## Is Solana a Good Investment?
 
 Like all cryptocurrencies, investing in Solana comes with risks. Its rapid growth, high market capitalization, and adoption by dApps and platforms like market makers signify its potential.
 
 Solana has made a significant impact on the world of blockchain and cryptocurrency, and is currently one of the most popular cryptocurrencies worldwide. Its innovative approach to transaction validation and sequencing sets it apart from other players in the space. As with any new addition to their portfolio, potential investors should thoroughly conduct their research, consult financial experts if necessary, and make sure they understand market dynamics before making a decision
 
-How To Buy Solana
+## How To Buy Solana
 
-Purchasing SOL, the native crypto tokens of Solana, can be done on numerous centralized and decentralized exchanges – for example, Changelly. Some platforms do not offer direct Solana purchases – in that case, you can first purchase a stablecoin like USD coin, and then exchange it for SOL. Before buying, always ensure you’re using a reputable exchange and consider transaction fees, which, given Solana’s architecture, are often competitive
+Purchasing SOL, the native crypto tokens of Solana, can be done on numerous centralized and decentralized exchanges – for example, Jupiter. Some platforms do not offer direct Solana purchases – in that case, you can first purchase a stablecoin like USD coin, and then exchange it for SOL. Before buying, always ensure you’re using a reputable exchange and consider transaction fees, which, given Solana’s architecture, are often competitive
